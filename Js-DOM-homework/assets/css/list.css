@@ -1,0 +1,21 @@
+li{
+    position: relative;
+}
+
+
+li  span {
+    margin-left: auto;
+    background-color: white;
+    padding: 5px;
+    cursor: pointer;
+}
+
+
+
+
+span i{
+    position: absolute;
+    left: 90%;
+    margin-top: 6px;
+    color: red;
+}
